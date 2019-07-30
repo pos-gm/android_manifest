@@ -12,10 +12,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="pos-gm/android_build_soong" groups="pdk,tradefed,sysui-studio" remote="github">
-    <linkfile src="root.bp" dest="Android.bp" />
-    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-  </project>
+  <project path="build/soong" name="pos-gm/android_build_soong" groups="pdk,tradefed,sysui-studio" remote="github" />
   <project path="build/release" name="pos-gm/android_build_release" groups="pdk" remote="github" />
   <project path="development" name="pos-gm/android_development" groups="developers,pdk-cw-fs,pdk-fs,sysui-studio" remote="github" />
   <project path="device/custom/sepolicy" name="pos-gm/android_device_custom_sepolicy" remote="github" />
