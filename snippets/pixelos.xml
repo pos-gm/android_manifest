@@ -27,6 +27,7 @@
   <project path="external/mksh" name="pos-gm/android_external_mksh" groups="pdk" remote="github" />
   <project path="external/sqlite" name="pos-gm/android_external_sqlite" groups="pdk" remote="github" />
   <project path="external/tinycompress" name="pos-gm/android_external_tinycompress" groups="pdk" remote="github" />
+  <project path="external/v4l2_codec2" name="pos-gm/android_external_v4l2_codec2" groups="pdk" remote="github" />
   <project path="external/zstd" name="pos-gm/android_external_zstd" groups="pdk" remote="github" />
   <project path="frameworks/av" name="pos-gm/android_frameworks_av" groups="pdk,sysui-studio" remote="github" />
   <project path="frameworks/base" name="pos-gm/android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="github" />
