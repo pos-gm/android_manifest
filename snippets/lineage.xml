@@ -4,11 +4,16 @@
   <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="lineageos" />
   <project path="external/bash" name="LineageOS/android_external_bash" remote="lineageos" />
   <project path="external/exfatprogs" name="LineageOS/android_external_exfatprogs" remote="lineageos" />
+  <project path="external/freetype" name="LineageOS/android_external_freetype" groups="pdk" remote="lineageos" />
   <project path="external/htop" name="LineageOS/android_external_htop" remote="lineageos" />
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="lineageos" />
+  <project path="external/libcupsfilters" name="LineageOS/android_external_libcupsfilters" groups="pdk" remote="lineageos" />
+  <project path="external/libhevc" name="LineageOS/android_external_libhevc" groups="pdk" remote="lineageos" />
   <project path="external/nano" name="LineageOS/android_external_nano" remote="lineageos" />
   <project path="external/ntfs-3g" name="LineageOS/android_external_ntfs-3g" remote="lineageos" />
   <project path="external/openssh" name="LineageOS/android_external_openssh" groups="pdk" remote="lineageos" />
+  <project path="external/libopenapv" name="LineageOS/android_external_libopenapv" groups="pdk" remote="lineageos" />
+  <project path="external/libppd" name="LineageOS/android_external_libppd" groups="pdk" remote="lineageos" />
   <project path="external/rsync" name="LineageOS/android_external_rsync" remote="lineageos" />
   <project path="external/unrar" name="LineageOS/android_external_unrar" remote="lineageos" />
   <project path="external/vim" name="LineageOS/android_external_vim" remote="lineageos" />

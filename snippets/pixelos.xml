@@ -39,6 +39,7 @@
   <project path="hardware/interfaces" name="LineageOS/android_hardware_interfaces" groups="pdk,sysui-studio" remote="lineageos" />
   <project path="hardware/libhardware" name="LineageOS/android_hardware_libhardware" groups="pdk" remote="lineageos" />
   <project path="hardware/nxp/nfc" name="LineageOS/android_hardware_nxp_nfc" groups="pdk" remote="lineageos" />
+  <project path="hardware/nxp/secure_element" name="LineageOS/android_hardware_nxp_secure_element" groups="pdk" remote="lineageos" />
   <project path="hardware/samsung/nfc" name="LineageOS/android_hardware_samsung_nfc" groups="pdk" remote="lineageos" />
   <project path="hardware/st/nfc" name="LineageOS/android_hardware_st_nfc" groups="pdk" remote="lineageos" />
   <project path="kernel/configs" name="pos-gm/android_kernel_configs" groups="vts,pdk" remote="github" />
@@ -58,9 +59,11 @@
   <project path="packages/modules/common" name="LineageOS/android_packages_modules_common" groups="pdk-cw-fs,pdk-fs" remote="lineageos" />
   <project path="packages/modules/Nfc" name="pos-gm/android_packages_modules_Nfc" groups="pdk" remote="github" />
   <project path="packages/modules/Connectivity" name="pos-gm/android_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="github" />
+  <project path="packages/modules/IntentResolver" name="LineageOS/android_packages_modules_IntentResolver" groups="pdk,sysui-studio" remote="lineageos" />
   <project path="packages/modules/Permission" name="pos-gm/android_packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/modules/UprobeStats" name="LineageOS/android_packages_modules_UprobeStats" groups="pdk-cw-fs,pdk-fs" remote="lineageos" />
   <project path="packages/modules/Wifi" name="LineageOS/android_packages_modules_Wifi" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="lineageos" />
+  <project path="packages/modules/Uwb" name="LineageOS/android_packages_modules_Uwb" groups="pdk-cw-fs,pdk-fs" remote="lineageos" />
   <project path="packages/services/DeviceAsWebcam" name="LineageOS/android_packages_services_DeviceAsWebcam" groups="pdk-cw-fs,pdk-fs" remote="lineageos" />
   <project path="packages/services/Telecomm" name="pos-gm/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/services/Telephony" name="pos-gm/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="github" />
@@ -68,6 +71,7 @@
   <project path="system/chre" name="LineageOS/android_system_chre" groups="pdk" remote="lineageos" />
   <project path="system/core" name="pos-gm/android_system_core" groups="pdk" remote="github" />
   <project path="system/extras" name="LineageOS/android_system_extras" groups="pdk" remote="lineageos" />
+  <project path="system/incremental_delivery" name="LineageOS/android_system_incremental_delivery" groups="pdk" remote="lineageos" />
   <project path="system/logging" name="pos-gm/android_system_logging" groups="pdk" remote="github" />
   <project path="system/libziparchive" name="LineageOS/android_system_libziparchive" groups="pdk" remote="lineageos" />
   <project path="system/media" name="LineageOS/android_system_media" groups="pdk" remote="lineageos" />
