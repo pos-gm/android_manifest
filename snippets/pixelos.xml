@@ -62,7 +62,7 @@
   <project path="packages/modules/IntentResolver" name="LineageOS/android_packages_modules_IntentResolver" groups="pdk,sysui-studio" remote="lineageos" />
   <project path="packages/modules/Permission" name="pos-gm/android_packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/modules/UprobeStats" name="LineageOS/android_packages_modules_UprobeStats" groups="pdk-cw-fs,pdk-fs" remote="lineageos" />
-  <project path="packages/modules/Wifi" name="LineageOS/android_packages_modules_Wifi" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="lineageos" />
+  <project path="packages/modules/Wifi" name="pos-gm/android_packages_modules_Wifi" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="github" />
   <project path="packages/modules/Uwb" name="LineageOS/android_packages_modules_Uwb" groups="pdk-cw-fs,pdk-fs" remote="lineageos" />
   <project path="packages/services/DeviceAsWebcam" name="LineageOS/android_packages_services_DeviceAsWebcam" groups="pdk-cw-fs,pdk-fs" remote="lineageos" />
   <project path="packages/services/Telecomm" name="pos-gm/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="github" />
